@@ -43,6 +43,7 @@ Built a creative enterprise AD simulation using NBA teams as departments:
 ## Certifications
 - CompTIA Security+ (February 2026)
 - ISC² CC
+- BTL1
 
 ## Connect
 - GitHub: [coreyarmstrong-sec](https://github.com/coreyarmstrong-sec)
